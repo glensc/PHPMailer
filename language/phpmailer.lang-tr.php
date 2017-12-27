@@ -3,7 +3,7 @@
 * PHPMailer language file: refer to English translation for definitive list
 * Turkish version
 * Türkçe Versiyonu
-* ÝZYAZILIM - Elçin Özel - Can Yýlmaz - Mehmet Benlioðlu
+* İZYAZILIM - Elçin Özel - Can Yılmaz - Mehmet Benlioğlu
 */
 
 $PHPMAILER_LANG['authenticate']         = 'SMTP Hatası: Doğrulanamıyor.';
